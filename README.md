@@ -9,5 +9,6 @@
 7. Joint Intent classification and slot-filling with BERT: https://github.com/90217/joint-intent-classification-and-slot-filling-based-on-BERT
 8. DSTC-4 Challenge: https://github.com/seokhwankim/dstc4/blob/master/docs/Handbook_DSTC4_pilot.pdf
 and https://github.com/seokhwankim/dstc4
-9. DSTC-8 Congerence:https://sites.google.com/dstc.community/dstc8/aaai-20-workshop
-10. Another project on ATIS dataset
+9. DSTC-8 ConFerence:https://sites.google.com/dstc.community/dstc8/aaai-20-workshop
+10. More on DSTC-8 WORKSHOP: https://sites.google.com/dstc.community/dstc8/aaai-20-workshop
+11. Another project on ATIS dataset
