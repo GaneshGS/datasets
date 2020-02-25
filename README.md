@@ -20,3 +20,15 @@ and https://github.com/seokhwankim/dstc4
 17. Deep Mind's approach to Neural TTS https://syncedreview.com/2019/10/02/deepmind-uses-gans-to-convert-text-to-speech/
 18. Google AI's dataset on Task oriented dialogue systems: https://github.com/google-research-datasets/Taskmaster
 19. Google AI's dataset on Movie conversations https://storage.googleapis.com/dialog-data-corpus/CCPE-M-2019/landing_page.html
+20. Reddit text extract scripts: https://github.com/shagunsodhani/reddit-text-extract
+21. Haptik datasets and ner models: https://github.com/hellohaptik
+22. Tourism Ontology catalogue: https://lov4iot.appspot.com/?p=lov4iot-tourism
+23. Protege Ontology library: https://protegewiki.stanford.edu/wiki/Protege_Ontology_Library
+24. RASA NLU Tensorflow for intent detection https://medium.com/rasa-blog/how-to-handle-multiple-intents-per-input-using-rasa-nlu-tensorflow-pipeline-75698b49c383
+25. Six entity types of chatbots: https://medium.com/@CobusGreyling/your-chatbot-should-accommodate-these-six-entity-types-12e1d3b1d2c6
+26. Dynamic Tourism packages with semantic web process: https://www.w3.org/2005/04/FSWS/Submissions/16/paper.html
+27. Comparing Ontologies: http://ontobroker.semanticweb.org/ontos/report-aifb-408.pdf
+28. Ontology based framework for Tourism: file:///C:/Users/am00359902/Downloads/Building_an_Ontology-Based_Framework_for_Tourism_R.pdf
+29. Semantic web in Australian Tourism: https://link.springer.com/content/pdf/10.1007%2F978-3-030-33220-4_1.pdf
+30. Tourism ontology and semantic management: https://info.sice.indiana.edu/~dingying/Publication/OnTourism-IADIS-cameraready.pdf
+31. Semantic Tourism portal: https://yingding.ischool.utexas.edu/Publication/OnTourism-revision.pdf
