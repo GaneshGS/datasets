@@ -12,9 +12,9 @@ and https://github.com/seokhwankim/dstc4
 9. DSTC-8 ConFerence:https://sites.google.com/dstc.community/dstc8/aaai-20-workshop
 10. More on DSTC-8 WORKSHOP: https://sites.google.com/dstc.community/dstc8/aaai-20-workshop
 11. Another project on ATIS dataset <must be filled>
-12. NLP_Tourism Datasets with BERT: https://github.com/cchantra/nlp_tourism
+12. NLP_Tourism Datasets with BERT: https://github.com/cchantra/nlp_tourism Relevant paper (https://medium.com/analytics-vidhya/creating-own-name-entity-recognition-using-bert-and-spacy-tourism-data-set-c5ee1c2955a2)
 13. R-BERT for relation extraction: https://github.com/monologg/R-BERT
-14. Poly AI for General Conversational Datasets: https://github.com/PolyAI-LDN/conversational-datasets
+14. Poly AI for General Conversational Datasets: https://github.com/PolyAI-LDN/conversational-datasets Relevant paper      (https://medium.com/@matthen/a-repository-of-conversational-datasets-95e5ff17b6fb)
 15. Task Oriented Dialogue Dataset Survey: https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey
 16. End-to-End Speech synthesis Github: https://github.com/syang1993/gst-tacotron
 17. Deep Mind's approach to Neural TTS https://syncedreview.com/2019/10/02/deepmind-uses-gans-to-convert-text-to-speech/
@@ -32,3 +32,11 @@ and https://github.com/seokhwankim/dstc4
 29. Semantic web in Australian Tourism: https://link.springer.com/content/pdf/10.1007%2F978-3-030-33220-4_1.pdf
 30. Tourism ontology and semantic management: https://info.sice.indiana.edu/~dingying/Publication/OnTourism-IADIS-cameraready.pdf
 31. Semantic Tourism portal: https://yingding.ischool.utexas.edu/Publication/OnTourism-revision.pdf
+32. Dialogue Corpora: http://martinweisser.org/corpora_site/dialogue_corpora.html
+33. Language Data Consortium Corpora: https://catalog.ldc.upenn.edu/docs/LDC97S62/
+34. Knowledge Graph Ontologies: http://accidental-taxonomist.blogspot.com/2019/05/knowledge-graphs-and-ontologies.html
+35. Phrase clustering with Dashbot: https://www.dashbot.io/features/phrase-clustering/
+36. Relational Learning: https://web.archive.org/web/20101011211905/http://ai.cs.washington.edu/projects/statistical-relational-learning
+37. Speech Acts in Functional Approach: https://www.sas.upenn.edu/~haroldfs/edling/handouts/speechacts/spchax2.html
+38. Stanford's Ontolingua: http://www.ksl.stanford.edu/software/ontolingua/
+39. Quality Metrics of NLU Chatbots: https://medium.com/analytics-vidhya/quality-metrics-for-nlu-chatbot-training-data-part-1-confusion-matrix-91ac71b90270
