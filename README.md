@@ -41,4 +41,4 @@ and https://github.com/seokhwankim/dstc4
 38. Stanford's Ontolingua: http://www.ksl.stanford.edu/software/ontolingua/
 39. Quality Metrics of NLU Chatbots: https://medium.com/analytics-vidhya/quality-metrics-for-nlu-chatbot-training-data-part-1-confusion-matrix-91ac71b90270
 40. Another Reddit Corpus extraction script set: https://github.com/GaneshGS/Reddit-Bots
-41. GraphSAGEhttps: https://github.com/williamleif/GraphSAGE
+41. GraphSAGEhttps: https://github.com/williamleif/GraphSAGE relevant link http://snap.stanford.edu/graphsage/
